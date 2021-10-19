@@ -1,4 +1,4 @@
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Bruno</h1>
+<h1 align="center">Hello world <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Bruno</h1>
 <h3 align="center">A curious person focused on learning  cool things</h3>
 
 - 🤓 I'm Learning: **JavaScript, HTML, CSS, SQL, PYTHON, ARDUINO**
