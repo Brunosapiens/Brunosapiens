@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: **bruno.rafael.gaio@gmail.com**
 
-- ⚡ Fun fact: **I don't know how to bend the tongue even my dog do 🙄**
+- ⚡ Fun fact: **I don't know how to bend the tongue even my dog does 🐶**
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
