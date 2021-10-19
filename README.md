@@ -1,11 +1,11 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Bruno</h1>
 <h3 align="center">A curious person focused on learning  cool things</h3>
 
-- 🤓 Learning **JavaScript, HTML, CSS, SQL, PYTHON, ARDUINO**
+- 🤓 I'm Learning: **JavaScript, HTML, CSS, SQL, PYTHON, ARDUINO**
 
-- 📫 How to reach me **bruno.rafael.gaio@gmail.com**
+- 📫 How to reach me: **bruno.rafael.gaio@gmail.com**
 
-- ⚡ Fun fact **I don't know how to bend the tongue even my dog do 🙄**
+- ⚡ Fun fact: **I don't know how to bend the tongue even my dog do 🙄**
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
